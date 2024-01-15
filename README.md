@@ -34,7 +34,7 @@ This project utilizes the Sepolia testnet for testing and deploying the Ethereum
 
 This project leverages Ganache, a local blockchain for Ethereum development, to facilitate the testing and development of the Ethereum smart contract. Ganache provides a simple and convenient way to run a local Ethereum blockchain, allowing developers to deploy and interact with smart contracts in a controlled and local environment. It's particularly useful for testing contract functionality, debugging, and ensuring the correctness of smart contract logic before deploying to a public testnet
 
-## Usage
+### Usage
 
 1.Run your ganache local chain, by hitting quickstart on your ganache application.
 
