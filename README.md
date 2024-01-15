@@ -52,20 +52,20 @@ PRIVATE_KEY=8a2de4fbe03484c93d6edbd52d145a7592954986f7c65e85d4b73c4e8a224a55
 
 4.Compile your code
 Run
-`yarn compile`
+-`yarn compile`
 
 You'll see files `SimpleStorage_sol_SimpleStorage.abi` and `SimpleStorage_sol_SimpleStorage.bin` be created.
 
 5.Run your application
-`node deploy.js`
+-`node deploy.js`
 
 For WSL users
 1.Run
-`yarn add ganache`
+-`yarn add ganache`
 2.Change Server settings in Ganache
-Settings > Server > Host Name
+-Settings > Server > Host Name
 
 3.Change Host Name to vEthernet (WSL)
 
-Run your application
+-Run your application
 `node deploy.js`
