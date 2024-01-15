@@ -42,7 +42,7 @@ Copy the `RPC SERVER` sting in your ganache CLI, and place it into your `.env` f
 
 `.env` Example:
 
-RPC_URL=http://127.0.0.1:8545
+`RPC_URL=http://127.0.0.1:8545`
 
 3.Hit the key on one of the accounts, and copy the key you see and place it into your .env file, similar to what you see in .env.example.
 
