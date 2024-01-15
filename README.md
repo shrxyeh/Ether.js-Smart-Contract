@@ -1,7 +1,7 @@
 # Requirements
-git
+### git
   You'll know you did it right if you can run  `git --version` and you see a response like `git version x.x.x`
-Nodejs
+### Nodejs
   You'll know you've installed nodejs right if you can run:
 `node --version` and get an ouput like: `vx.x.x`
 Yarn instead of `npm`
