@@ -48,8 +48,6 @@ Copy the `RPC SERVER` sting in your ganache CLI, and place it into your `.env` f
 
 `.env` Example:
 
-PRIVATE_KEY=8a2de4fbe03484c93d6edbd52d145a7592954986f7c65e85d4b73c4e8a224a55
-
 4.Compile your code
   - Run
   - `yarn compile`
